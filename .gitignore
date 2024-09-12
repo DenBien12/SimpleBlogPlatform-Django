@@ -1,0 +1,17 @@
+# Ignore the virtual environment
+env/
+
+# Ignore the SQLite database
+*.sqlite3
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore media files or any temporary files you don't want to track
+media/
+staticfiles/
+
+# Ignore system files
+.DS_Store
+*.log
